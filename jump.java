@@ -1,10 +1,11 @@
 import java.util.*;
 
-class GFG {
+class jump {
 	public static void main (String[] args) {
 		Scanner s=new Scanner(System.in);
-		int a[]=new int[5],i=0;
-		for(i=0;i<5;i++)
+int b=s.nextInt();
+		int a[]=new int[b],i=0;
+		for(i=0;i<b;i++)
 		a[i]=s.nextInt();
 		for(i=0;i<=a.length-2;)
 		{
