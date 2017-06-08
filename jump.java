@@ -16,12 +16,12 @@ int b=s.nextInt();
 		if(i<=a.length-1)
 		{
 		if(a[i]==a[a.length-1])
-		System.out.print("y");
+		System.out.print("true");
 		else
-		System.out.print("n");
+		System.out.print("false");
 		}
 		else
-		System.out.print("n");
+		System.out.print("false");
 		
 	}
 }
