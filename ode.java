@@ -1,5 +1,5 @@
 import java.util.*;
-public class oe {
+public class ode {
 	public static void main(String[] args) {
 int a[],i,j=0,k=0,e=0,o=0;
 a=new int[args.length];
