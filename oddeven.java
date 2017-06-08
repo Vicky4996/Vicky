@@ -26,4 +26,8 @@ if(j==1)
 	System.out.print(o);
 	System.exit(0);
 }
+if(k>1||j>1)
+{
+	System.out.print("Not correct input");
+}
 }	}
