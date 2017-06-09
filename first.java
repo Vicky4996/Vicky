@@ -21,6 +21,8 @@ public class repeat{
         }
         if(f==1)
         	System.out.print(a[i]);
+        else
+         	System.out.print("No Repeated Elements");   
        
     }
 }
