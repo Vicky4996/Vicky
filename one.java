@@ -10,6 +10,8 @@ public static void main(String args[])
 		int k=Collections.frequency(al1, ((List<String>) al1).get(i));
 		if(k==1)
 			{System.out.print(((List<String>) al1).get(i));break;}
+		if(i==al1.size()-1)
+			System.out.print(-1);
 	}
 	
 }
